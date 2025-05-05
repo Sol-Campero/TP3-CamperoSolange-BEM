@@ -1,0 +1,6 @@
+/*Import de estilos base*/
+@import url(../style/base.css);
+/*Import de los estilos del header*/
+@import url(../style/header.css);
+@import url(../style/page-main.css);
+@import url(../style/footer.css);
